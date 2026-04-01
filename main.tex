@@ -1,0 +1,82 @@
+\documentclass[a4paper]{article}
+\fontsize{14pt}{16pt}\selectfont
+
+% Packages
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{microtype}
+\usepackage{hyperref}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{fancyhdr}
+\usepackage{geometry}
+\usepackage{tcolorbox}
+\usepackage{enumitem}
+\usepackage{titlesec}  % Title spacing control
+\usepackage{xcolor}
+% Use Times Roman font for text and math
+\usepackage{mathptmx}  % Times font for both text and math
+\usepackage{tikz}
+
+
+% Title Info
+\title{\textbf{Telecom Monitoring System (TMS) \\ User Manual}}
+\author{TMS Documentation Team}
+\date{\today}
+
+% Page Layout
+\geometry{top=1in, bottom=1in, left=1in, right=1in}
+\setlength{\headheight}{24pt}
+
+% Custom Header and Footer
+\pagestyle{fancy}
+\fancyhead[L]{}
+\fancyhead[C]{\textbf{TMS User Manual} \\[.1mm]}
+\fancyhead[R]{}
+\fancyfoot[L]{}
+\fancyfoot[C]{%
+  \begin{tikzpicture}[baseline=(base.base)]
+    \node[draw, circle, inner sep=2pt, minimum size=1.2em, line width=0.5pt] (base) {\thepage};
+  \end{tikzpicture}%
+}
+\fancyfoot[R]{}
+% --- ADD THESE LINES FOR THE HEADER LINE ---
+%\renewcommand{\headrulewidth}{0.4pt}    % Thickness of the header line (0.4pt is standard)
+\renewcommand{\footrulewidth}{0.4pt}  % Uncomment this if you want a line above the footer too
+% -----------------------------------------
+
+% Section Styling
+\titlespacing*{\section}{0pt}{1ex}{1ex}
+\titlespacing*{\subsection}{0pt}{1ex}{1ex}
+\titlespacing*{\subsubsection}{0pt}{1ex}{1ex}
+\titleformat{\section}
+  {\normalfont\Large\bfseries}   % format: font for the whole heading
+  {\thesection.}                  % label (the "1")
+  {0.2em}                        % horizontal sep (change this value)
+  {}                             % before-code
+\titleformat{\subsection}
+  {\normalfont\large\bfseries}   % format: font for the whole heading
+  {\thesubsection}               % label (the "1.1")
+  {0.5em}                        % horizontal sep (change this value)
+  {}                             % before-code
+
+\setcounter{secnumdepth}{3}  % Numbering for subsubsections
+\setcounter{tocdepth}{3}      % Include subsubsections in the TOC
+
+\begin{document}
+
+% Title Page
+\maketitle
+\newpage
+
+% Table of Contents
+%...
+\tableofcontents
+%...
+\newpage
+
+% Include chapters
+\input{chapters/Dashboard.tex}
+\input{chapters/login.tex}
+
+\end{document}
