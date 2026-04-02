@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.3.31)  2 APR 2026 14:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.3.31)  2 APR 2026 16:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -474,17 +474,33 @@ Package: titlesec 2023/10/27 v2.16 Sectioning titles
 \titlewidth=\dimen264
 \titlewidthlast=\dimen265
 \titlewidthfirst=\dimen266
-) (/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+) (/usr/share/texlive/texmf-dist/tex/latex/dashrule/dashrule.sty
+Package: dashrule 2013/03/28 v1.3 Dashed rules
+ (/usr/share/texlive/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
+Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
+)
+\c@hdr@segments=\count307
+) (/usr/share/texlive/texmf-dist/tex/latex/background/background.sty
+Package: background 2014/03/04 v2.1 background material
+ (/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks42
+\XKV@tempa@toks=\toks43
+)
+\XKV@depth=\count308
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
 \pgffor@iter=\dimen267
 \pgffor@skip=\dimen268
-\pgffor@stack=\toks42
-\pgffor@toks=\toks43
+\pgffor@stack=\toks44
+\pgffor@toks=\toks45
 )) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2023-01-15 v3.1.10 (3.1.10)
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count307
+\pgf@plot@mark@count=\count309
 \pgfplotmarksize=\dimen269
 )
 \tikz@lastx=\dimen270
@@ -499,30 +515,20 @@ File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \tikz@figbox@bg=\box73
 \tikz@tempbox=\box74
 \tikz@tempbox@bg=\box75
-\tikztreelevel=\count308
-\tikznumberofchildren=\count309
-\tikznumberofcurrentchild=\count310
-\tikz@fig@count=\count311
+\tikztreelevel=\count310
+\tikznumberofchildren=\count311
+\tikznumberofcurrentchild=\count312
+\tikz@fig@count=\count313
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count312
-\pgfmatrixcurrentcolumn=\count313
-\pgf@matrix@numberofcolumns=\count314
+\pgfmatrixcurrentrow=\count314
+\pgfmatrixcurrentcolumn=\count315
+\pgf@matrix@numberofcolumns=\count316
 )
-\tikz@expandcount=\count315
+\tikz@expandcount=\count317
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) (/usr/share/texlive/texmf-dist/tex/latex/background/background.sty
-Package: background 2014/03/04 v2.1 background material
- (/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
- (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks44
-\XKV@tempa@toks=\toks45
-)
-\XKV@depth=\count316
-File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-)) (/usr/share/texlive/texmf-dist/tex/latex/everypage/everypage.sty
+))) (/usr/share/texlive/texmf-dist/tex/latex/everypage/everypage.sty
 Package: everypage 2020/10/17 R2.0b Hooks to run on every page
 
 
@@ -584,47 +590,47 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
 LaTeX Info: Redefining \hbar on input line 50.
-)
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 76.
+) (./chapters/setting/setting.tex)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 27.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 ) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count317
+\l__color_backend_stack_int=\count318
 \l__pdf_internal_box=\box78
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count318
+\scratchcounter=\count319
 \scratchdimen=\dimen280
 \scratchbox=\box79
-\nofMPsegments=\count319
-\nofMParguments=\count320
+\nofMPsegments=\count320
+\nofMParguments=\count321
 \everyMPshowfont=\toks47
-\MPscratchCnt=\count321
+\MPscratchCnt=\count322
 \MPscratchDim=\dimen281
-\MPnumerator=\count322
-\makeMPintoPDFobject=\count323
+\MPnumerator=\count323
+\makeMPintoPDFobject=\count324
 \everyMPtoPDFconversion=\toks48
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -632,26 +638,26 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-LaTeX Info: Redefining \microtypecontext on input line 76.
-Package microtype Info: Applying patch `item' on input line 76.
-Package microtype Info: Applying patch `toc' on input line 76.
-Package microtype Info: Applying patch `eqnum' on input line 76.
-Package microtype Info: Applying patch `footnote' on input line 76.
-Package microtype Info: Applying patch `verbatim' on input line 76.
+LaTeX Info: Redefining \microtypecontext on input line 27.
+Package microtype Info: Applying patch `item' on input line 27.
+Package microtype Info: Applying patch `toc' on input line 27.
+Package microtype Info: Applying patch `eqnum' on input line 27.
+Package microtype Info: Applying patch `footnote' on input line 27.
+Package microtype Info: Applying patch `verbatim' on input line 27.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 76.
+LaTeX Info: Redefining \showhyphens on input line 27.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
  (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ptm.cfg
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
-Package hyperref Info: Link coloring OFF on input line 76.
+Package hyperref Info: Link coloring OFF on input line 27.
  (./main.out) (./main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
@@ -738,19 +744,43 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 <img/common/Innerfront.png, id=50, 597.23125pt x 845.1575pt>
 File: img/common/Innerfront.png Graphic file (type png)
 <use img/common/Innerfront.png>
-Package pdftex.def Info: img/common/Innerfront.png  used on input line 82.
+Package pdftex.def Info: img/common/Innerfront.png  used on input line 33.
 (pdftex.def)             Requested size: 597.54874pt x 845.06516pt.
  [2
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} <./img/common/Innerfront.png>] (./chapters/Dashboard.tex
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} <./img/common/Innerfront.png>]
+<img/common/deviderPage1.png, id=58, 1613.02625pt x 387.4475pt>
+File: img/common/deviderPage1.png Graphic file (type png)
+<use img/common/deviderPage1.png>
+Package pdftex.def Info: img/common/deviderPage1.png  used on input line 38.
+(pdftex.def)             Requested size: 452.9679pt x 108.8038pt.
+File: img/common/Innerfront.png Graphic file (type png)
+<use img/common/Innerfront.png>
+Package pdftex.def Info: img/common/Innerfront.png  used on input line 38.
+(pdftex.def)             Requested size: 597.54874pt x 845.06516pt.
+ [3
+
+
+ <./img/common/deviderPage1.png>] (./chapters/Dashboard.tex
 File: img/common/Innerfront.png Graphic file (type png)
 <use img/common/Innerfront.png>
 Package pdftex.def Info: img/common/Innerfront.png  used on input line 5.
 (pdftex.def)             Requested size: 597.54874pt x 845.06516pt.
- [3
+ [4
 
-]) (./chapters/login.tex
+])
+File: img/common/deviderPage1.png Graphic file (type png)
+<use img/common/deviderPage1.png>
+Package pdftex.def Info: img/common/deviderPage1.png  used on input line 42.
+(pdftex.def)             Requested size: 452.9679pt x 108.8038pt.
+File: img/common/Innerfront.png Graphic file (type png)
+<use img/common/Innerfront.png>
+Package pdftex.def Info: img/common/Innerfront.png  used on input line 42.
+(pdftex.def)             Requested size: 597.54874pt x 845.06516pt.
+ [5
+
+] (./chapters/login.tex
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 23.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
@@ -759,8 +789,10 @@ File: img/common/Innerfront.png Graphic file (type png)
 <use img/common/Innerfront.png>
 Package pdftex.def Info: img/common/Innerfront.png  used on input line 30.
 (pdftex.def)             Requested size: 597.54874pt x 845.06516pt.
- [4]
-<img/login/login.png, id=66, 1044.90375pt x 739.76375pt>
+ [6
+
+]
+<img/login/login.png, id=76, 1044.90375pt x 739.76375pt>
 File: img/login/login.png Graphic file (type png)
 <use img/login/login.png>
 Package pdftex.def Info: img/login/login.png  used on input line 40.
@@ -773,18 +805,18 @@ File: img/common/Innerfront.png Graphic file (type png)
 <use img/common/Innerfront.png>
 Package pdftex.def Info: img/common/Innerfront.png  used on input line 71.
 (pdftex.def)             Requested size: 597.54874pt x 845.06516pt.
- [5 <./img/login/login.png>]) (./chapters/endpage.tex
+ [7 <./img/login/login.png>]) (./chapters/endpage.tex
 File: img/common/Innerfront.png Graphic file (type png)
 <use img/common/Innerfront.png>
 Package pdftex.def Info: img/common/Innerfront.png  used on input line 2.
 (pdftex.def)             Requested size: 597.54874pt x 845.06516pt.
- [6]
-<img/common/Back.png, id=81, 597.23125pt x 845.1575pt>
+ [8]
+<img/common/Back.png, id=92, 597.23125pt x 845.1575pt>
 File: img/common/Back.png Graphic file (type png)
 <use img/common/Back.png>
 Package pdftex.def Info: img/common/Back.png  used on input line 17.
 (pdftex.def)             Requested size: 597.54874pt x 845.06516pt.
- [7
+ [9
 
  <./img/common/Back.png>]) (./main.aux)
  ***********
@@ -795,18 +827,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 7A0428ADF4E2E6B4C9C0C0C23968D8E6;1000.
  ) 
 Here is how much of TeX's memory you used:
- 25644 strings out of 476182
- 485867 string characters out of 5795595
+ 25737 strings out of 476182
+ 487940 string characters out of 5795595
  1931975 words of memory out of 5000000
- 47122 multiletter control sequences out of 15000+600000
- 580317 words of font info for 119 fonts, out of 8000000 for 9000
+ 47188 multiletter control sequences out of 15000+600000
+ 582788 words of font info for 128 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  83i,16n,93p,1033b,917s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (7 pages, 3117856 bytes).
+Output written on main.pdf (9 pages, 3271658 bytes).
 PDF statistics:
- 115 PDF objects out of 1000 (max. 8388607)
- 90 compressed objects within 1 object stream
- 19 named destinations out of 1000 (max. 500000)
- 39001 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 125 PDF objects out of 1000 (max. 8388607)
+ 96 compressed objects within 1 object stream
+ 21 named destinations out of 1000 (max. 500000)
+ 45150 words of extra memory for PDF output out of 51595 (max. 10000000)
 

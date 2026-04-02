@@ -12,66 +12,17 @@
 \usepackage{fancyhdr}
 \usepackage{geometry}
 \usepackage{tcolorbox}
+\usepackage{etoolbox}
 \usepackage{enumitem}
 \usepackage{titlesec}  % Title spacing control
 \usepackage{xcolor}
-\usepackage{tikz}
+\usepackage{dashrule}
 \usepackage{background}  % For background image
 \usepackage{eso-pic}   % add this to preamble
-
 % Use Times Roman font for text and math
 \usepackage{mathptmx}  % Times font for both text and math
 
-% Page Layout
-\geometry{top=1in, bottom=.75in, left=1in, right=1in}
-
-% Custom Header and Footer
-\pagestyle{fancy}
-\fancyhead[L]{}
-\fancyhead[C]{}
-\fancyhead[R]{}
-\fancyfoot[L]{}
-\fancyfoot[C]{%
-  \begin{tikzpicture}[baseline=(base.base)]
-    \node[draw, circle, inner sep=2pt, minimum size=1.2em, line width=0.3pt] (base) {\thepage};
-  \end{tikzpicture}%
-}
-\fancyfoot[R]{}
-\renewcommand{\headrulewidth}{0pt}    % Thickness of the header line
-\renewcommand{\footrulewidth}{0pt}    % Footer line thickness
-
-% Section Styling
-\titlespacing*{\section}{0pt}{1ex}{1ex}
-\titlespacing*{\subsection}{0pt}{1ex}{1ex}
-\titlespacing*{\subsubsection}{0pt}{1ex}{1ex}
-\titleformat{\section}
-{\normalfont\Large\bfseries}   % format: font for the whole heading
-{\thesection.}                  % label (the "1")
-{0.2em}                        % horizontal sep (change this value)
-{}                             % before-code
-\titleformat{\subsection}
-{\normalfont\large\bfseries}   % format: font for the whole heading
-{\thesubsection}               % label (the "1.1")
-{0.5em}                        % horizontal sep (change this value)
-{}                             % before-code
-
-\setcounter{secnumdepth}{3}  % Numbering for subsubsections
-\setcounter{tocdepth}{3}      % Include subsubsections in the TOC
-
-% Background image setup for inner pages (not the cover or end page)
-\backgroundsetup{
-  scale=1,
-  color=black,
-  opacity=1,
-  angle=0,
-  position=current page.south,
-  vshift=14.9cm,   % Remove any vertical shift for background image
-  hshift=0cm,
-  contents={\includegraphics[width=\paperwidth,height=\paperheight]{img/common/Innerfront.png}} % Path to the image
-}
-
-% Ensure text is not justified
-\raggedright
+\input{chapters/setting/setting.tex}
 
 \begin{document}
 \input{chapters/cover.tex}
@@ -82,7 +33,14 @@
 \clearpage
 
 % ================= INNER CHAPTERS =================
+
+% Section 1 Example
+\sectiondivider{1}{Dashboard Overview}
 \input{chapters/Dashboard.tex}
+
+% Section 2 Example
+\sectiondivider{2}{User Login and Access}
 \input{chapters/login.tex}
+
 \input{chapters/endpage.tex}
 \end{document}

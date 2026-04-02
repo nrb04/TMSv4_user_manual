@@ -1,0 +1,85 @@
+
+% Title Info
+\title{\textbf{Telecom Monitoring System (TMS) \\ User Manual}}
+\author{TMS Documentation Team \\ \small{Version 1.0}}
+\date{\today}
+% Page Layout
+\geometry{top=1in, bottom=.75in, left=1in, right=1in}
+
+% Custom Header and Footer
+\pagestyle{fancy}
+\fancyhead[L]{}
+\fancyhead[C]{}
+\fancyhead[R]{}
+\fancyfoot[L]{}
+\fancyfoot[C]{%
+  \begin{tikzpicture}[baseline=(base.base)]
+    \node[draw, circle, inner sep=2pt, minimum size=1.2em, line width=0.3pt] (base) {\thepage};
+  \end{tikzpicture}%
+}
+\fancyfoot[R]{}
+\renewcommand{\headrulewidth}{0pt}    % Thickness of the header line
+\renewcommand{\footrulewidth}{0pt}    % Footer line thickness
+
+% Section Styling
+\titlespacing*{\section}{0pt}{1ex}{1ex}
+\titlespacing*{\subsection}{0pt}{1ex}{1ex}
+\titlespacing*{\subsubsection}{0pt}{1ex}{1ex}
+\titleformat{\section}
+{\normalfont\Large\bfseries}   % format: font for the whole heading
+{\thesection.}                  % label (the "1")
+{0.2em}                        % horizontal sep (change this value)
+{}                             % before-code
+\titleformat{\subsection}
+{\normalfont\large\bfseries}   % format: font for the whole heading
+{\thesubsection}               % label (the "1.1")
+{0.5em}                        % horizontal sep (change this value)
+{}                             % before-code
+
+\setcounter{secnumdepth}{3}  % Numbering for subsubsections
+\setcounter{tocdepth}{3}      % Include subsubsections in the TOC
+
+% Background image setup for inner pages (not the cover or end page)
+\backgroundsetup{
+  scale=1,
+  color=black,
+  opacity=1,
+  angle=0,
+  position=current page.south,
+  vshift=14.9cm,   % Remove any vertical shift for background image
+  hshift=0cm,
+  contents={\includegraphics[width=\paperwidth,height=\paperheight]{img/common/Innerfront.png}} % Path to the image
+}
+
+% Ensure text is not justified
+\raggedright
+
+% Define the section divider command
+
+\newcommand{\sectiondivider}[2]{
+  \clearpage
+  \thispagestyle{empty}
+
+  \vspace*{\fill}
+
+  \begin{center}
+
+    \hdashrule{\textwidth}{0.8pt}{2mm 1mm}
+
+    \vspace{0.8cm}
+
+    {\LARGE\bfseries #2}
+
+    \vspace{0.5cm}
+
+    \hdashrule{\textwidth}{0.8pt}{2mm 1mm}
+
+  \end{center}
+
+  \vspace*{\fill}
+  % Insert the image just before the footer
+  \begin{center}
+    \includegraphics[width=\textwidth]{img/common/deviderPage1.png} % Image path
+  \end{center}
+  \clearpage
+}
