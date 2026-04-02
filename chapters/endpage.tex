@@ -1,0 +1,17 @@
+% ================= COVER PAGE (Full bleed, no extra blank page) =================
+\clearpage
+\thispagestyle{empty}
+
+% Temporarily disable the background package for this page only
+\backgroundsetup{contents={}}
+
+% Use eso-pic for clean full-page image (recommended for covers)
+\AddToShipoutPictureBG*{%
+  \AtPageLowerLeft{%
+    \includegraphics[width=\paperwidth,height=\paperheight]{img/common/Back.png}%
+  }%
+}
+
+% Empty page content (just to ship the page)
+\null
+\clearpage

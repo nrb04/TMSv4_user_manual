@@ -4,4 +4,4 @@
 \contentsline {subsection}{\numberline {2.2}User Registration}{4}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}Login Instructions}{5}{subsection.2.3}%
 \contentsline {subsection}{\numberline {2.4}Disclaimer}{5}{subsection.2.4}%
-\contentsline {subsection}{\numberline {2.5}Security Guidelines}{5}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.5}Security Guidelines}{6}{subsection.2.5}%
