@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.3.31)  2 APR 2026 16:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.3.31)  2 APR 2026 18:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -591,7 +591,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
 LaTeX Info: Redefining \hbar on input line 50.
 ) (./chapters/setting/setting.tex)
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 27.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 26.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 ) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
@@ -601,24 +601,24 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count319
@@ -638,26 +638,26 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-LaTeX Info: Redefining \microtypecontext on input line 27.
-Package microtype Info: Applying patch `item' on input line 27.
-Package microtype Info: Applying patch `toc' on input line 27.
-Package microtype Info: Applying patch `eqnum' on input line 27.
-Package microtype Info: Applying patch `footnote' on input line 27.
-Package microtype Info: Applying patch `verbatim' on input line 27.
+LaTeX Info: Redefining \microtypecontext on input line 26.
+Package microtype Info: Applying patch `item' on input line 26.
+Package microtype Info: Applying patch `toc' on input line 26.
+Package microtype Info: Applying patch `eqnum' on input line 26.
+Package microtype Info: Applying patch `footnote' on input line 26.
+Package microtype Info: Applying patch `verbatim' on input line 26.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 27.
+LaTeX Info: Redefining \showhyphens on input line 26.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
  (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ptm.cfg
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
-Package hyperref Info: Link coloring OFF on input line 27.
+Package hyperref Info: Link coloring OFF on input line 26.
  (./main.out) (./main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
@@ -698,7 +698,7 @@ Package hyperref Info: Link coloring OFF on input line 27.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 (./chapters/cover.tex
-<img/common/Cover.png, id=35, 597.23125pt x 845.1575pt>
+<img/common/Cover.png, id=47, 597.23125pt x 845.1575pt>
 File: img/common/Cover.png Graphic file (type png)
 <use img/common/Cover.png>
 Package pdftex.def Info: img/common/Cover.png  used on input line 17.
@@ -706,7 +706,7 @@ Package pdftex.def Info: img/common/Cover.png  used on input line 17.
  [1
 
 
- <./img/common/Cover.png>]) (./main.toc
+ <./img/common/Cover.png>]) (./InnerChapter.tex (./main.toc
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 3.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
@@ -741,23 +741,23 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
-<img/common/Innerfront.png, id=50, 597.23125pt x 845.1575pt>
+<img/common/Innerfront.png, id=65, 597.23125pt x 845.1575pt>
 File: img/common/Innerfront.png Graphic file (type png)
 <use img/common/Innerfront.png>
-Package pdftex.def Info: img/common/Innerfront.png  used on input line 33.
+Package pdftex.def Info: img/common/Innerfront.png  used on input line 4.
 (pdftex.def)             Requested size: 597.54874pt x 845.06516pt.
  [2
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} <./img/common/Innerfront.png>]
-<img/common/deviderPage1.png, id=58, 1613.02625pt x 387.4475pt>
+<img/common/deviderPage1.png, id=73, 1613.02625pt x 387.4475pt>
 File: img/common/deviderPage1.png Graphic file (type png)
 <use img/common/deviderPage1.png>
-Package pdftex.def Info: img/common/deviderPage1.png  used on input line 38.
+Package pdftex.def Info: img/common/deviderPage1.png  used on input line 9.
 (pdftex.def)             Requested size: 452.9679pt x 108.8038pt.
 File: img/common/Innerfront.png Graphic file (type png)
 <use img/common/Innerfront.png>
-Package pdftex.def Info: img/common/Innerfront.png  used on input line 38.
+Package pdftex.def Info: img/common/Innerfront.png  used on input line 9.
 (pdftex.def)             Requested size: 597.54874pt x 845.06516pt.
  [3
 
@@ -772,11 +772,11 @@ Package pdftex.def Info: img/common/Innerfront.png  used on input line 5.
 ])
 File: img/common/deviderPage1.png Graphic file (type png)
 <use img/common/deviderPage1.png>
-Package pdftex.def Info: img/common/deviderPage1.png  used on input line 42.
+Package pdftex.def Info: img/common/deviderPage1.png  used on input line 13.
 (pdftex.def)             Requested size: 452.9679pt x 108.8038pt.
 File: img/common/Innerfront.png Graphic file (type png)
 <use img/common/Innerfront.png>
-Package pdftex.def Info: img/common/Innerfront.png  used on input line 42.
+Package pdftex.def Info: img/common/Innerfront.png  used on input line 13.
 (pdftex.def)             Requested size: 597.54874pt x 845.06516pt.
  [5
 
@@ -792,7 +792,7 @@ Package pdftex.def Info: img/common/Innerfront.png  used on input line 30.
  [6
 
 ]
-<img/login/login.png, id=76, 1044.90375pt x 739.76375pt>
+<img/login/login.png, id=91, 1044.90375pt x 739.76375pt>
 File: img/login/login.png Graphic file (type png)
 <use img/login/login.png>
 Package pdftex.def Info: img/login/login.png  used on input line 40.
@@ -805,40 +805,73 @@ File: img/common/Innerfront.png Graphic file (type png)
 <use img/common/Innerfront.png>
 Package pdftex.def Info: img/common/Innerfront.png  used on input line 71.
 (pdftex.def)             Requested size: 597.54874pt x 845.06516pt.
- [7 <./img/login/login.png>]) (./chapters/endpage.tex
+ [7 <./img/login/login.png>])
+File: img/common/Innerfront.png Graphic file (type png)
+<use img/common/Innerfront.png>
+Package pdftex.def Info: img/common/Innerfront.png  used on input line 16.
+(pdftex.def)             Requested size: 597.54874pt x 845.06516pt.
+ [8]
+File: img/common/deviderPage1.png Graphic file (type png)
+<use img/common/deviderPage1.png>
+Package pdftex.def Info: img/common/deviderPage1.png  used on input line 16.
+(pdftex.def)             Requested size: 452.9679pt x 108.8038pt.
+File: img/common/Innerfront.png Graphic file (type png)
+<use img/common/Innerfront.png>
+Package pdftex.def Info: img/common/Innerfront.png  used on input line 16.
+(pdftex.def)             Requested size: 597.54874pt x 845.06516pt.
+ [9
+
+] (./chapters/websiteOperations.tex
+<img/websiteOperations/webOparation.png, id=111, 1366.35469pt x 754.31813pt>
+File: img/websiteOperations/webOparation.png Graphic file (type png)
+<use img/websiteOperations/webOparation.png>
+Package pdftex.def Info: img/websiteOperations/webOparation.png  used on input line 14.
+(pdftex.def)             Requested size: 452.9679pt x 250.06523pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 14--15
+ [][][][][][][] 
+ []
+
+File: img/common/Innerfront.png Graphic file (type png)
+<use img/common/Innerfront.png>
+Package pdftex.def Info: img/common/Innerfront.png  used on input line 26.
+(pdftex.def)             Requested size: 597.54874pt x 845.06516pt.
+[10
+
+ <./img/websiteOperations/webOparation.png (PNG copy)>]) (./chapters/endpage.tex
 File: img/common/Innerfront.png Graphic file (type png)
 <use img/common/Innerfront.png>
 Package pdftex.def Info: img/common/Innerfront.png  used on input line 2.
 (pdftex.def)             Requested size: 597.54874pt x 845.06516pt.
- [8]
-<img/common/Back.png, id=92, 597.23125pt x 845.1575pt>
+ [11]
+<img/common/Back.png, id=121, 597.23125pt x 845.1575pt>
 File: img/common/Back.png Graphic file (type png)
 <use img/common/Back.png>
 Package pdftex.def Info: img/common/Back.png  used on input line 17.
 (pdftex.def)             Requested size: 597.54874pt x 845.06516pt.
- [9
+ [12
 
- <./img/common/Back.png>]) (./main.aux)
+ <./img/common/Back.png>])) (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 7A0428ADF4E2E6B4C9C0C0C23968D8E6;1000.
+(rerunfilecheck)             Checksum: 4F17E4B9907AFF0D064B5071F572A452;1587.
  ) 
 Here is how much of TeX's memory you used:
- 25737 strings out of 476182
- 487940 string characters out of 5795595
- 1931975 words of memory out of 5000000
- 47188 multiletter control sequences out of 15000+600000
- 582788 words of font info for 128 fonts, out of 8000000 for 9000
+ 25784 strings out of 476182
+ 488962 string characters out of 5795595
+ 1932975 words of memory out of 5000000
+ 47213 multiletter control sequences out of 15000+600000
+ 583145 words of font info for 134 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 83i,16n,93p,1033b,917s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 83i,16n,93p,1033b,921s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (9 pages, 3271658 bytes).
+Output written on main.pdf (12 pages, 3436623 bytes).
 PDF statistics:
- 125 PDF objects out of 1000 (max. 8388607)
- 96 compressed objects within 1 object stream
- 21 named destinations out of 1000 (max. 500000)
- 45150 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 156 PDF objects out of 1000 (max. 8388607)
+ 122 compressed objects within 2 object streams
+ 28 named destinations out of 1000 (max. 500000)
+ 45179 words of extra memory for PDF output out of 51595 (max. 10000000)
 

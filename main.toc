@@ -5,3 +5,6 @@
 \contentsline {subsection}{\numberline {2.3}Login Instructions}{7}{subsection.2.3}%
 \contentsline {subsection}{\numberline {2.4}Disclaimer}{7}{subsection.2.4}%
 \contentsline {subsection}{\numberline {2.5}Security Guidelines}{8}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Website Operations and Management}{10}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Overview of Classic View}{10}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Classic View Description}{11}{subsection.3.2}%
