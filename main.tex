@@ -1,4 +1,4 @@
-\documentclass[a4paper,12pt]{article}
+\documentclass{article}
 \fontsize{14pt}{16pt}\selectfont
 
 % Packages
@@ -11,6 +11,7 @@
 \usepackage{amsfonts}
 \usepackage{fancyhdr}
 \usepackage{geometry}
+\usepackage{float}    % Essential for [H] placement
 \usepackage{tcolorbox}
 \usepackage{etoolbox}
 \usepackage{enumitem}
@@ -20,6 +21,11 @@
 \usepackage{background}  % For background image
 \usepackage{eso-pic}   % add this to preamble
 \usepackage{mathptmx}  % Times font for both text and math
+\usepackage{caption}
+\usepackage{wrapfig}
+
+\usepackage{lipsum}
+\geometry{a4paper, margin=1in}
 
 \input{chapters/setting/setting.tex}
 

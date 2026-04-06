@@ -4,7 +4,12 @@
 \contentsline {subsection}{\numberline {2.2}User Registration}{6}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}Login Instructions}{7}{subsection.2.3}%
 \contentsline {subsection}{\numberline {2.4}Disclaimer}{7}{subsection.2.4}%
-\contentsline {subsection}{\numberline {2.5}Security Guidelines}{8}{subsection.2.5}%
-\contentsline {section}{\numberline {3}Website Operations and Management}{10}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Overview of Classic View}{10}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Classic View Description}{11}{subsection.3.2}%
+\contentsline {subsection}{\numberline {2.5}Security Guidelines}{7}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Website Operate and Manage Classic View}{9}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Overview of Classic View}{9}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Classic View Description}{9}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Website Operate and Manage Modern View}{10}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Overview of Modern View}{10}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Modern View Description}{11}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Traffic Volume}{13}{section.4}%
+\contentsline {section}{\numberline {5}Traffic Volume - Subsection Common Search}{13}{section.5}%
