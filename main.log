@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.3.31)  6 APR 2026 21:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.3.31)  7 APR 2026 11:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -9,8 +9,8 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count187
 \c@section=\count188
@@ -622,56 +622,97 @@ Package caption Info: hyperref package is loaded.
 \WF@box=\box80
 \WF@everypar=\toks49
 Package: wrapfig 2003/01/31  v 3.6
-) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count322
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count323
+) (/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
+ (/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
+) (/usr/share/texlive/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+ (/usr/share/texlive/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box81
+)
+\tc@llx=\dimen290
+\tc@lly=\dimen291
+\tc@urx=\dimen292
+\tc@ury=\dimen293
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+ (/usr/share/texlive/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen294
+\adjbox@Height=\dimen295
+\adjbox@Depth=\dimen296
+\adjbox@Totalheight=\dimen297
+\adjbox@pwidth=\dimen298
+\adjbox@pheight=\dimen299
+\adjbox@pdepth=\dimen300
+\adjbox@ptotalheight=\dimen301
+ (/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count324
+) (/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box82
+\sift@deathcycles=\count325
+\@vwid@loff=\dimen302
+\@vwid@roff=\dimen303
+)) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2024-01-22 L3 programming layer (loader) 
  (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count322
-\l__pdf_internal_box=\box81
+\l__color_backend_stack_int=\count326
+\l__pdf_internal_box=\box83
 ))
 Package: l3keys2e 2023-10-10 LaTeX2e option processing using LaTeX3 keys
 )
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count323
-\l__lipsum_a_int=\count324
-\l__lipsum_b_int=\count325
+\g__lipsum_par_int=\count327
+\l__lipsum_a_int=\count328
+\l__lipsum_b_int=\count329
  (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (./chapters/setting/setting.tex)
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 32.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 34.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count326
-\scratchdimen=\dimen290
-\scratchbox=\box82
-\nofMPsegments=\count327
-\nofMParguments=\count328
+\scratchcounter=\count330
+\scratchdimen=\dimen304
+\scratchbox=\box84
+\nofMPsegments=\count331
+\nofMParguments=\count332
 \everyMPshowfont=\toks50
-\MPscratchCnt=\count329
-\MPscratchDim=\dimen291
-\MPnumerator=\count330
-\makeMPintoPDFobject=\count331
+\MPscratchCnt=\count333
+\MPscratchDim=\dimen305
+\MPnumerator=\count334
+\makeMPintoPDFobject=\count335
 \everyMPtoPDFconversion=\toks51
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -679,26 +720,26 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-LaTeX Info: Redefining \microtypecontext on input line 32.
-Package microtype Info: Applying patch `item' on input line 32.
-Package microtype Info: Applying patch `toc' on input line 32.
-Package microtype Info: Applying patch `eqnum' on input line 32.
-Package microtype Info: Applying patch `footnote' on input line 32.
-Package microtype Info: Applying patch `verbatim' on input line 32.
+LaTeX Info: Redefining \microtypecontext on input line 34.
+Package microtype Info: Applying patch `item' on input line 34.
+Package microtype Info: Applying patch `toc' on input line 34.
+Package microtype Info: Applying patch `eqnum' on input line 34.
+Package microtype Info: Applying patch `footnote' on input line 34.
+Package microtype Info: Applying patch `verbatim' on input line 34.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 32.
+LaTeX Info: Redefining \showhyphens on input line 34.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
  (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ptm.cfg
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
-Package hyperref Info: Link coloring OFF on input line 32.
+Package hyperref Info: Link coloring OFF on input line 34.
  (./main.out) (./main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
@@ -723,12 +764,12 @@ Package hyperref Info: Link coloring OFF on input line 32.
 * \topmargin=-37.0pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=10.0pt
+* \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=65.0pt
-* \marginparsep=11.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -775,11 +816,11 @@ File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 ) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
 )
 \tf@toc=\write5
@@ -845,12 +886,16 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-)
+File: img/common/Innerfront.png Graphic file (type png)
+<use img/common/Innerfront.png>
+Package pdftex.def Info: img/common/Innerfront.png  used on input line 71.
+(pdftex.def)             Requested size: 597.54874pt x 845.06516pt.
+ [7 <./img/login/login.png>])
 File: img/common/Innerfront.png Graphic file (type png)
 <use img/common/Innerfront.png>
 Package pdftex.def Info: img/common/Innerfront.png  used on input line 16.
 (pdftex.def)             Requested size: 597.54874pt x 845.06516pt.
- [7 <./img/login/login.png>]
+ [8]
 File: img/common/deviderPage4.png Graphic file (type png)
 <use img/common/deviderPage4.png>
 Package pdftex.def Info: img/common/deviderPage4.png  used on input line 16.
@@ -859,10 +904,10 @@ File: img/common/Innerfront.png Graphic file (type png)
 <use img/common/Innerfront.png>
 Package pdftex.def Info: img/common/Innerfront.png  used on input line 16.
 (pdftex.def)             Requested size: 597.54874pt x 845.06516pt.
- [8
+ [9
 
 ] (./chapters/websiteOperations.tex
-<img/websiteOperations/webOparation.png, id=131, 1366.35469pt x 754.31813pt>
+<img/websiteOperations/webOparation.png, id=135, 1366.35469pt x 754.31813pt>
 File: img/websiteOperations/webOparation.png Graphic file (type png)
 <use img/websiteOperations/webOparation.png>
 Package pdftex.def Info: img/websiteOperations/webOparation.png  used on input line 14.
@@ -874,12 +919,12 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 14--15
 
 File: img/common/Innerfront.png Graphic file (type png)
 <use img/common/Innerfront.png>
-Package pdftex.def Info: img/common/Innerfront.png  used on input line 34.
+Package pdftex.def Info: img/common/Innerfront.png  used on input line 26.
 (pdftex.def)             Requested size: 597.54874pt x 845.06516pt.
-[9
+[10
 
  <./img/websiteOperations/webOparation.png (PNG copy)>]
-<img/websiteOperations/webOparationMordern.png, id=137, 1376.14125pt x 760.34062pt>
+<img/websiteOperations/webOparationMordern.png, id=141, 1376.14125pt x 760.34062pt>
 File: img/websiteOperations/webOparationMordern.png Graphic file (type png)
 <use img/websiteOperations/webOparationMordern.png>
 Package pdftex.def Info: img/websiteOperations/webOparationMordern.png  used on input line 58.
@@ -891,14 +936,14 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 58--59
 
 File: img/common/Innerfront.png Graphic file (type png)
 <use img/common/Innerfront.png>
-Package pdftex.def Info: img/common/Innerfront.png  used on input line 65.
+Package pdftex.def Info: img/common/Innerfront.png  used on input line 66.
 (pdftex.def)             Requested size: 597.54874pt x 845.06516pt.
-[10 <./img/websiteOperations/webOparationMordern.png (PNG copy)>])
+[11])
 File: img/common/Innerfront.png Graphic file (type png)
 <use img/common/Innerfront.png>
 Package pdftex.def Info: img/common/Innerfront.png  used on input line 20.
 (pdftex.def)             Requested size: 597.54874pt x 845.06516pt.
- [11]
+ [12 <./img/websiteOperations/webOparationMordern.png (PNG copy)>]
 File: img/common/deviderPage4.png Graphic file (type png)
 <use img/common/deviderPage4.png>
 Package pdftex.def Info: img/common/deviderPage4.png  used on input line 20.
@@ -907,79 +952,96 @@ File: img/common/Innerfront.png Graphic file (type png)
 <use img/common/Innerfront.png>
 Package pdftex.def Info: img/common/Innerfront.png  used on input line 20.
 (pdftex.def)             Requested size: 597.54874pt x 845.06516pt.
- [12
+ [13
 
-] (./chapters/Traffic/Traffic.tex
-<img/traffic/trafficTypes.png, id=153, 297.36093pt x 173.89969pt>
+] (./chapters/1Traffic/Traffic.tex
+<img/traffic/trafficTypes.png, id=158, 297.36093pt x 173.89969pt>
 File: img/traffic/trafficTypes.png Graphic file (type png)
 <use img/traffic/trafficTypes.png>
 Package pdftex.def Info: img/traffic/trafficTypes.png  used on input line 35.
-(pdftex.def)             Requested size: 203.83417pt x 119.2028pt.
+(pdftex.def)             Requested size: 158.54152pt x 92.71565pt.
+ (./chapters/setting/CommonItems/c1Period.tex
+<img/common/commonarea/period.png, id=159, 278.54062pt x 130.98938pt>
+File: img/common/commonarea/period.png Graphic file (type png)
+<use img/common/commonarea/period.png>
+Package pdftex.def Info: img/common/commonarea/period.png  used on input line 17.
+(pdftex.def)             Requested size: 158.54152pt x 74.55878pt.
+) (./chapters/setting/CommonItems/c2quickpresett.tex
+<img/common/commonarea/QuickPresents.png, id=160, 361.35pt x 62.48344pt>
+File: img/common/commonarea/QuickPresents.png Graphic file (type png)
+<use img/common/commonarea/QuickPresents.png>
+Package pdftex.def Info: img/common/commonarea/QuickPresents.png  used on input line 18.
+(pdftex.def)             Requested size: 203.83417pt x 35.24599pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (./chapters/setting/CommonItems/C3startTimeDate.tex
+<img/common/commonarea/StartDate.png, id=161, 272.51813pt x 240.9pt>
+File: img/common/commonarea/StartDate.png Graphic file (type png)
+<use img/common/commonarea/StartDate.png>
+Package pdftex.def Info: img/common/commonarea/StartDate.png  used on input line 8.
+(pdftex.def)             Requested size: 181.18439pt x 160.16339pt.
+<img/common/commonarea/StartTime.png, id=162, 271.0125pt x 238.64156pt>
+File: img/common/commonarea/StartTime.png Graphic file (type png)
+<use img/common/commonarea/StartTime.png>
+Package pdftex.def Info: img/common/commonarea/StartTime.png  used on input line 15.
+(pdftex.def)             Requested size: 181.18439pt x 159.5467pt.
 File: img/common/Innerfront.png Graphic file (type png)
 <use img/common/Innerfront.png>
-Package pdftex.def Info: img/common/Innerfront.png  used on input line 39.
+Package pdftex.def Info: img/common/Innerfront.png  used on input line 21.
 (pdftex.def)             Requested size: 597.54874pt x 845.06516pt.
- [13
+ [14
 
- <./img/traffic/trafficTypes.png (PNG copy)>]
-File: img/traffic/trafficTypes.png Graphic file (type png)
-<use img/traffic/trafficTypes.png>
-Package pdftex.def Info: img/traffic/trafficTypes.png  used on input line 57.
-(pdftex.def)             Requested size: 203.83417pt x 119.2028pt.
-File: img/traffic/trafficTypes.png Graphic file (type png)
-<use img/traffic/trafficTypes.png>
-Package pdftex.def Info: img/traffic/trafficTypes.png  used on input line 80.
-(pdftex.def)             Requested size: 203.83417pt x 119.2028pt.
+ <./img/traffic/trafficTypes.png (PNG copy)> <./img/common/commonarea/period.png (PNG copy)>]) (./chapters/setting/CommonItems/C4QuicktimeSelection.tex
+<img/common/commonarea/QuickTimeSelection.png, id=169, 1136.74687pt x 59.47218pt>
+File: img/common/commonarea/QuickTimeSelection.png Graphic file (type png)
+<use img/common/commonarea/QuickTimeSelection.png>
+Package pdftex.def Info: img/common/commonarea/QuickTimeSelection.png  used on input line 7.
+(pdftex.def)             Requested size: 452.9679pt x 23.69861pt.
+) (./chapters/setting/CommonItems/C5Operator.tex)
 File: img/common/Innerfront.png Graphic file (type png)
 <use img/common/Innerfront.png>
-Package pdftex.def Info: img/common/Innerfront.png  used on input line 116.
+Package pdftex.def Info: img/common/Innerfront.png  used on input line 48.
 (pdftex.def)             Requested size: 597.54874pt x 845.06516pt.
- [14]
-File: img/traffic/trafficTypes.png Graphic file (type png)
-<use img/traffic/trafficTypes.png>
-Package pdftex.def Info: img/traffic/trafficTypes.png  used on input line 135.
-(pdftex.def)             Requested size: 226.48395pt x 132.44904pt.
-
-Overfull \hbox (6.0pt too wide) in paragraph at lines 135--136
- [][][][][][][] 
- []
-
-) (./chapters/endpage.tex
+ [15 <./img/common/commonarea/QuickPresents.png (PNG copy)> <./img/common/commonarea/StartDate.png (PNG copy)> <./img/common/commonarea/StartTime.png (PNG copy)> <./img/common/commonarea/QuickTimeSelection.png (PNG copy)>]) (./chapters/endpage.tex
 File: img/common/Innerfront.png Graphic file (type png)
 <use img/common/Innerfront.png>
 Package pdftex.def Info: img/common/Innerfront.png  used on input line 2.
 (pdftex.def)             Requested size: 597.54874pt x 845.06516pt.
- [15
-
-]
-<img/common/Back.png, id=171, 597.23125pt x 845.1575pt>
+ [16]
+<img/common/Back.png, id=181, 597.23125pt x 845.1575pt>
 File: img/common/Back.png Graphic file (type png)
 <use img/common/Back.png>
 Package pdftex.def Info: img/common/Back.png  used on input line 17.
 (pdftex.def)             Requested size: 597.54874pt x 845.06516pt.
- [16
+ [17
 
  <./img/common/Back.png>])) (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 4B0F33C2DD3222D595AB3226E5B5606B;2628.
+(rerunfilecheck)             Checksum: 7B9BC338A11E26610C77D12CDC29CDB7;2576.
  ) 
 Here is how much of TeX's memory you used:
- 27753 strings out of 476182
- 528557 string characters out of 5795595
- 1935975 words of memory out of 5000000
- 49096 multiletter control sequences out of 15000+600000
- 584520 words of font info for 160 fonts, out of 8000000 for 9000
+ 28807 strings out of 476182
+ 549662 string characters out of 5795595
+ 1937975 words of memory out of 5000000
+ 50123 multiletter control sequences out of 15000+600000
+ 585570 words of font info for 150 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 83i,16n,117p,1033b,909s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (16 pages, 5128651 bytes).
+ 83i,16n,117p,1033b,919s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (17 pages, 5178444 bytes).
 PDF statistics:
- 209 PDF objects out of 1000 (max. 8388607)
- 169 compressed objects within 2 object streams
- 42 named destinations out of 1000 (max. 500000)
- 45229 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 220 PDF objects out of 1000 (max. 8388607)
+ 174 compressed objects within 2 object streams
+ 44 named destinations out of 1000 (max. 500000)
+ 49350 words of extra memory for PDF output out of 51595 (max. 10000000)
 
