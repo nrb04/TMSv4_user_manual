@@ -15,4 +15,24 @@
 
 \vspace{-50pt}
 
-Telecom monitoring system website writing a professinal Usermanual with LateX, now i give u a sectionwise image and some comments give me Latex Format text
+\input{chapters/setting/CommonItems/c1Period.tex}
+\clearpage
+\input{chapters/setting/CommonItems/c2quickpresett.tex}
+\input{chapters/setting/CommonItems/C3startTimeDate.tex}
+\input{chapters/setting/CommonItems/C4QuicktimeSelection.tex}
+\clearpage
+\input{chapters/setting/CommonItems/C5Operator.tex}
+
+After \textbf{APPLY FILTERS},\includegraphics[width=0.3\textwidth]{img/common/commonarea/Applyfilter.png} the search results will update to reflect the selected parameters.
+
+
+\begin{figure}[h]
+  \centering
+  \itshape
+  \includegraphics[width=\textwidth]{img/common/commonarea/QuickTimeSelection.png}
+  \caption{Example of Quick Time Selection}
+\end{figure}
+
+Telecom monitoring system website writing a professinal Usermanual with LateX,
+now i give u a sectionwise image and some comments give me Latex Format text
+
