@@ -11,22 +11,23 @@ In this section, users can access and filter traffic data based on different tra
 \end{itemize}
 
 \vspace{3mm}
-\subsection{Traffic Volume-Search}
-The common search area will include options to filter by these traffic types, and specific subsections will be added for each traffic category (Voice, SMS, Data, ICX In/Out, IGW In/Out).
-In this section, the user can filter traffic volume data by selecting the appropriate parameters from the following options: \\
-\:
-
-\textbf{Traffic Type:} The user can select from the following options:
+\subsection{Traffic Volume- Voice Search}
+In this section, users can filter traffic volume data
+by selecting the appropriate parameters for Voice traffic.
+To perform a voice search, the user needs to select the **Voice** option in the traffic type filter.
+This will allow the user to view only the voice traffic data\\
+\vspace{3mm}
+\textbf{Traffic Type:} For Voice traffic, the user can select from the following options:
 
 \begin{figure}[ht]
 
   \begin{minipage}[b]{0.20\textwidth}
     \begin{itemize}
       \item Voice
-      \item SMS
-      \item Data
-      \item ICX In/Out
-      \item IGW In/Out
+      \item \st{SMS}
+      \item \st{Data}
+      \item \st{ICX In/Out}
+      \item \st{IGW In/Out}
     \end{itemize}
   \end{minipage}
   \hfill
@@ -63,10 +64,12 @@ In this section, the user can filter traffic volume data by selecting the approp
   \caption{Example of Traffic Direction Selection}
 \end{figure}
 \vspace{3mm}
-\textbf{Units:} The user can select between two unit types:
+%\textbf{Units:} The user can select between two unit types:\includegraphics[width=0.3\textwidth]{img/traffic/minuteCount.png}\\
+\textbf{Units:} The user can select between two unit types: \raisebox{-0.2\height}{\includegraphics[height=2em]{img/traffic/minuteCount.png}}
 \begin{itemize}
   \item Minute
   \item Count
 \end{itemize}
 
 After \textbf{APPLY FILTERS},\includegraphics[width=0.3\textwidth]{img/common/commonarea/Applyfilter.png} the search results will update to reflect the selected parameters.
+\input{chapters/1Traffic/TrafficVoiceResults.tex}
