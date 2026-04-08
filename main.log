@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.3.31)  7 APR 2026 15:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.3.31)  8 APR 2026 11:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -814,7 +814,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
 (./chapters/cover.tex
-<img/common/Cover.png, id=71, 597.23125pt x 845.1575pt>
+<img/common/Cover.png, id=75, 597.23125pt x 845.1575pt>
 File: img/common/Cover.png Graphic file (type png)
 <use img/common/Cover.png>
 Package pdftex.def Info: img/common/Cover.png  used on input line 17.
@@ -857,7 +857,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
-<img/common/Innerfront.png, id=95, 597.23125pt x 845.1575pt>
+<img/common/Innerfront.png, id=100, 597.23125pt x 845.1575pt>
 File: img/common/Innerfront.png Graphic file (type png)
 <use img/common/Innerfront.png>
 Package pdftex.def Info: img/common/Innerfront.png  used on input line 4.
@@ -866,7 +866,7 @@ Package pdftex.def Info: img/common/Innerfront.png  used on input line 4.
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} <./img/common/Innerfront.png>]
-<img/common/deviderPage4.png, id=103, 2135.98pt x 497.86pt>
+<img/common/deviderPage4.png, id=108, 2135.98pt x 497.86pt>
 File: img/common/deviderPage4.png Graphic file (type png)
 <use img/common/deviderPage4.png>
 Package pdftex.def Info: img/common/deviderPage4.png  used on input line 9.
@@ -908,7 +908,7 @@ Package pdftex.def Info: img/common/Innerfront.png  used on input line 30.
  [6
 
 ]
-<img/login/login.png, id=121, 1044.90375pt x 739.76375pt>
+<img/login/login.png, id=126, 1044.90375pt x 739.76375pt>
 File: img/login/login.png Graphic file (type png)
 <use img/login/login.png>
 Package pdftex.def Info: img/login/login.png  used on input line 40.
@@ -938,7 +938,7 @@ Package pdftex.def Info: img/common/Innerfront.png  used on input line 16.
  [9
 
 ] (./chapters/websiteOperations.tex
-<img/websiteOperations/webOparation.png, id=140, 1366.35469pt x 754.31813pt>
+<img/websiteOperations/webOparation.png, id=145, 1366.35469pt x 754.31813pt>
 File: img/websiteOperations/webOparation.png Graphic file (type png)
 <use img/websiteOperations/webOparation.png>
 Package pdftex.def Info: img/websiteOperations/webOparation.png  used on input line 14.
@@ -950,7 +950,7 @@ Package pdftex.def Info: img/common/Innerfront.png  used on input line 26.
  [10
 
  <./img/websiteOperations/webOparation.png (PNG copy)>]
-<img/websiteOperations/webOparationMordern.png, id=146, 1376.14125pt x 760.34062pt>
+<img/websiteOperations/webOparationMordern.png, id=151, 1376.14125pt x 760.34062pt>
 File: img/websiteOperations/webOparationMordern.png Graphic file (type png)
 <use img/websiteOperations/webOparationMordern.png>
 Package pdftex.def Info: img/websiteOperations/webOparationMordern.png  used on input line 58.
@@ -975,148 +975,184 @@ Package pdftex.def Info: img/common/Innerfront.png  used on input line 20.
 (pdftex.def)             Requested size: 597.54874pt x 845.06516pt.
  [13
 
-] (./chapters/1Traffic/Traffic.tex
-<img/traffic/trafficTypes.png, id=163, 297.36093pt x 173.89969pt>
+] (./chapters/1Traffic/Traffic.tex (./chapters/1Traffic/TrafficVoice.tex
+<img/traffic/voice/Traficvoicepageview.png, id=168, 1142.76938pt x 732.48656pt>
+File: img/traffic/voice/Traficvoicepageview.png Graphic file (type png)
+<use img/traffic/voice/Traficvoicepageview.png>
+Package pdftex.def Info: img/traffic/voice/Traficvoicepageview.png  used on input line 10.
+(pdftex.def)             Requested size: 439.37941pt x 281.63376pt.
+File: img/common/Innerfront.png Graphic file (type png)
+<use img/common/Innerfront.png>
+Package pdftex.def Info: img/common/Innerfront.png  used on input line 19.
+(pdftex.def)             Requested size: 597.54874pt x 845.06516pt.
+ [14
+
+ <./img/traffic/voice/Traficvoicepageview.png (PNG copy)>]
+<img/traffic/trafficTypes.png, id=174, 297.36093pt x 173.89969pt>
 File: img/traffic/trafficTypes.png Graphic file (type png)
 <use img/traffic/trafficTypes.png>
-Package pdftex.def Info: img/traffic/trafficTypes.png  used on input line 36.
+Package pdftex.def Info: img/traffic/trafficTypes.png  used on input line 37.
 (pdftex.def)             Requested size: 150.61395pt x 88.08pt.
  (./chapters/setting/CommonItems/c1Period.tex
-<img/common/commonarea/period.png, id=164, 278.54062pt x 130.98938pt>
+<img/common/commonarea/period.png, id=175, 278.54062pt x 130.98938pt>
 File: img/common/commonarea/period.png Graphic file (type png)
 <use img/common/commonarea/period.png>
 Package pdftex.def Info: img/common/commonarea/period.png  used on input line 18.
 (pdftex.def)             Requested size: 150.61395pt x 70.83113pt.
-)
-File: img/common/Innerfront.png Graphic file (type png)
-<use img/common/Innerfront.png>
-Package pdftex.def Info: img/common/Innerfront.png  used on input line 42.
-(pdftex.def)             Requested size: 597.54874pt x 845.06516pt.
- [14
-
- <./img/traffic/trafficTypes.png (PNG copy)> <./img/common/commonarea/period.png (PNG copy)>] (./chapters/setting/CommonItems/c2quickpresett.tex
-<img/common/commonarea/QuickPresents.png, id=171, 361.35pt x 62.48344pt>
+) (./chapters/setting/CommonItems/c2quickpresett.tex
+<img/common/commonarea/QuickPresents.png, id=176, 361.35pt x 62.48344pt>
 File: img/common/commonarea/QuickPresents.png Graphic file (type png)
 <use img/common/commonarea/QuickPresents.png>
 Package pdftex.def Info: img/common/commonarea/QuickPresents.png  used on input line 19.
 (pdftex.def)             Requested size: 193.64183pt x 33.48407pt.
 ) (./chapters/setting/CommonItems/C3startTimeDate.tex
-<img/common/commonarea/StartDate.png, id=172, 272.51813pt x 240.9pt>
+<img/common/commonarea/StartDate.png, id=177, 272.51813pt x 240.9pt>
 File: img/common/commonarea/StartDate.png Graphic file (type png)
 <use img/common/commonarea/StartDate.png>
 Package pdftex.def Info: img/common/commonarea/StartDate.png  used on input line 9.
 (pdftex.def)             Requested size: 172.1246pt x 152.15375pt.
-<img/common/commonarea/StartTime.png, id=173, 271.0125pt x 238.64156pt>
+<img/common/commonarea/StartTime.png, id=178, 271.0125pt x 238.64156pt>
 File: img/common/commonarea/StartTime.png Graphic file (type png)
 <use img/common/commonarea/StartTime.png>
 Package pdftex.def Info: img/common/commonarea/StartTime.png  used on input line 17.
 (pdftex.def)             Requested size: 172.1246pt x 151.56847pt.
 ) (./chapters/setting/CommonItems/C4QuicktimeSelection.tex
-<img/common/commonarea/QuickTimeSelection.png, id=174, 1136.74687pt x 59.47218pt>
+<img/common/commonarea/QuickTimeSelection.png, id=179, 1136.74687pt x 59.47218pt>
 File: img/common/commonarea/QuickTimeSelection.png Graphic file (type png)
 <use img/common/commonarea/QuickTimeSelection.png>
 Package pdftex.def Info: img/common/commonarea/QuickTimeSelection.png  used on input line 8.
 (pdftex.def)             Requested size: 452.9679pt x 23.69861pt.
-)
 File: img/common/Innerfront.png Graphic file (type png)
 <use img/common/Innerfront.png>
-Package pdftex.def Info: img/common/Innerfront.png  used on input line 46.
+Package pdftex.def Info: img/common/Innerfront.png  used on input line 11.
 (pdftex.def)             Requested size: 597.54874pt x 845.06516pt.
- [15
-
- <./img/common/commonarea/QuickPresents.png (PNG copy)> <./img/common/commonarea/StartDate.png (PNG copy)> <./img/common/commonarea/StartTime.png (PNG copy)> <./img/common/commonarea/QuickTimeSelection.png (PNG copy)>] (./chapters/setting/CommonItems/C5Operator.tex
-<img/common/commonarea/AllMno.png, id=182, 264.99pt x 214.55156pt>
+ [15 <./img/traffic/trafficTypes.png (PNG copy)> <./img/common/commonarea/period.png (PNG copy)> <./img/common/commonarea/QuickPresents.png (PNG copy)>]) (./chapters/setting/CommonItems/C5Operator.tex
+<img/common/commonarea/AllMno.png, id=187, 264.99pt x 214.55156pt>
 File: img/common/commonarea/AllMno.png Graphic file (type png)
 <use img/common/commonarea/AllMno.png>
 Package pdftex.def Info: img/common/commonarea/AllMno.png  used on input line 14.
 (pdftex.def)             Requested size: 172.1246pt x 139.36191pt.
-<img/common/commonarea/MultipleMno.png, id=183, 261.97874pt x 222.8325pt>
+<img/common/commonarea/MultipleMno.png, id=188, 261.97874pt x 222.8325pt>
 File: img/common/commonarea/MultipleMno.png Graphic file (type png)
 <use img/common/commonarea/MultipleMno.png>
 Package pdftex.def Info: img/common/commonarea/MultipleMno.png  used on input line 22.
 (pdftex.def)             Requested size: 172.1246pt x 146.40688pt.
 )
-<img/traffic/NetworkCatagory.png, id=184, 267.24844pt x 202.50656pt>
+<img/traffic/NetworkCatagory.png, id=189, 267.24844pt x 202.50656pt>
 File: img/traffic/NetworkCatagory.png Graphic file (type png)
 <use img/traffic/NetworkCatagory.png>
-Package pdftex.def Info: img/traffic/NetworkCatagory.png  used on input line 53.
+Package pdftex.def Info: img/traffic/NetworkCatagory.png  used on input line 52.
 (pdftex.def)             Requested size: 158.54152pt x 120.13907pt.
 File: img/common/Innerfront.png Graphic file (type png)
 <use img/common/Innerfront.png>
-Package pdftex.def Info: img/common/Innerfront.png  used on input line 56.
+Package pdftex.def Info: img/common/Innerfront.png  used on input line 55.
 (pdftex.def)             Requested size: 597.54874pt x 845.06516pt.
- [16
-
- <./img/common/commonarea/AllMno.png (PNG copy)> <./img/common/commonarea/MultipleMno.png (PNG copy)> <./img/traffic/NetworkCatagory.png (PNG copy)>]
-<img/traffic/trafficDirection.png, id=191, 262.73157pt x 176.15813pt>
+ [16 <./img/common/commonarea/StartDate.png (PNG copy)> <./img/common/commonarea/StartTime.png (PNG copy)> <./img/common/commonarea/QuickTimeSelection.png (PNG copy)> <./img/common/commonarea/AllMno.png (PNG copy)> <./img/common/commonarea/MultipleMno.png (PNG copy)>]
+File: img/common/Innerfront.png Graphic file (type png)
+<use img/common/Innerfront.png>
+Package pdftex.def Info: img/common/Innerfront.png  used on input line 55.
+(pdftex.def)             Requested size: 597.54874pt x 845.06516pt.
+ [17 <./img/traffic/NetworkCatagory.png (PNG copy)>]
+<img/traffic/trafficDirection.png, id=202, 262.73157pt x 176.15813pt>
 File: img/traffic/trafficDirection.png Graphic file (type png)
 <use img/traffic/trafficDirection.png>
-Package pdftex.def Info: img/traffic/trafficDirection.png  used on input line 63.
+Package pdftex.def Info: img/traffic/trafficDirection.png  used on input line 62.
 (pdftex.def)             Requested size: 135.89174pt x 91.11623pt.
-<img/traffic/minuteCount.png, id=192, 143.78719pt x 35.38219pt>
+<img/traffic/minuteCount.png, id=203, 143.78719pt x 35.38219pt>
 File: img/traffic/minuteCount.png Graphic file (type png)
 <use img/traffic/minuteCount.png>
-Package pdftex.def Info: img/traffic/minuteCount.png  used on input line 68.
+Package pdftex.def Info: img/traffic/minuteCount.png  used on input line 67.
 (pdftex.def)             Requested size: 97.53484pt x 24.0pt.
-<img/common/commonarea/Applyfilter.png, id=193, 275.52937pt x 41.4047pt>
+<img/common/commonarea/Applyfilter.png, id=204, 275.52937pt x 41.4047pt>
 File: img/common/commonarea/Applyfilter.png Graphic file (type png)
 <use img/common/commonarea/Applyfilter.png>
-Package pdftex.def Info: img/common/commonarea/Applyfilter.png  used on input line 74.
-(pdftex.def)             Requested size: 135.89174pt x 20.42177pt.
- (./chapters/1Traffic/TrafficVoiceResults.tex
-<img/traffic/voice/VoiceTableView.png, id=194, 1139.00531pt x 486.31688pt>
+Package pdftex.def Info: img/common/commonarea/Applyfilter.png  used on input line 73.
+(pdftex.def)             Requested size: 90.5922pt x 13.61366pt.
+<img/traffic/voice/VoiceTableView.png, id=205, 1139.00531pt x 486.31688pt>
 File: img/traffic/voice/VoiceTableView.png Graphic file (type png)
 <use img/traffic/voice/VoiceTableView.png>
-Package pdftex.def Info: img/traffic/voice/VoiceTableView.png  used on input line 9.
+Package pdftex.def Info: img/traffic/voice/VoiceTableView.png  used on input line 87.
 (pdftex.def)             Requested size: 452.9679pt x 193.39537pt.
 File: img/common/Innerfront.png Graphic file (type png)
 <use img/common/Innerfront.png>
-Package pdftex.def Info: img/common/Innerfront.png  used on input line 12.
+Package pdftex.def Info: img/common/Innerfront.png  used on input line 90.
 (pdftex.def)             Requested size: 597.54874pt x 845.06516pt.
- [17
+ [18
 
  <./img/traffic/trafficDirection.png (PNG copy)> <./img/traffic/minuteCount.png (PNG copy)> <./img/common/commonarea/Applyfilter.png (PNG copy)> <./img/traffic/voice/VoiceTableView.png (PNG copy)>] (./chapters/setting/CommonItems/R1TablendDownlaod.tex
-<img/common/commonarea/results/ResultsCommonArea.png, id=201, 1126.2075pt x 76.03406pt>
+<img/common/commonarea/results/ResultsCommonArea.png, id=212, 1126.2075pt x 76.03406pt>
 File: img/common/commonarea/results/ResultsCommonArea.png Graphic file (type png)
 <use img/common/commonarea/results/ResultsCommonArea.png>
 Package pdftex.def Info: img/common/commonarea/results/ResultsCommonArea.png  used on input line 6.
 (pdftex.def)             Requested size: 452.9679pt x 30.5813pt.
+) (./chapters/setting/CommonItems/R4TableSortfilter.tex
+<img/common/commonarea/results/R4TableSortingFilter.png, id=213, 308.65312pt x 197.98969pt>
+File: img/common/commonarea/results/R4TableSortingFilter.png Graphic file (type png)
+<use img/common/commonarea/results/R4TableSortingFilter.png>
+Package pdftex.def Info: img/common/commonarea/results/R4TableSortingFilter.png  used on input line 16.
+(pdftex.def)             Requested size: 113.24197pt x 72.63873pt.
+) (./chapters/setting/CommonItems/R2CompareDay.Tex
+File: img/common/Innerfront.png Graphic file (type png)
+<use img/common/Innerfront.png>
+Package pdftex.def Info: img/common/Innerfront.png  used on input line 4.
+(pdftex.def)             Requested size: 597.54874pt x 845.06516pt.
+ [19
+
+ <./img/common/commonarea/results/ResultsCommonArea.png (PNG copy)> <./img/common/commonarea/results/R4TableSortingFilter.png (PNG copy)>]
+<img/common/commonarea/results/CompareTheDaySmall.png, id=226, 129.48375pt x 22.58438pt>
+File: img/common/commonarea/results/CompareTheDaySmall.png Graphic file (type png)
+<use img/common/commonarea/results/CompareTheDaySmall.png>
+Package pdftex.def Info: img/common/commonarea/results/CompareTheDaySmall.png  used on input line 4.
+(pdftex.def)             Requested size: 90.5922pt x 15.8017pt.
+<img/common/commonarea/results/CompareTheDay.png, id=227, 1104.37593pt x 314.67563pt>
+File: img/common/commonarea/results/CompareTheDay.png Graphic file (type png)
+<use img/common/commonarea/results/CompareTheDay.png>
+Package pdftex.def Info: img/common/commonarea/results/CompareTheDay.png  used on input line 10.
+(pdftex.def)             Requested size: 439.37941pt x 125.1958pt.
+) (./chapters/setting/CommonItems/R3pagenation.tex
+<img/common/commonarea/results/R3Pageination.png, id=228, 1078.78032pt x 118.94438pt>
+File: img/common/commonarea/results/R3Pageination.png Graphic file (type png)
+<use img/common/commonarea/results/R3Pageination.png>
+Package pdftex.def Info: img/common/commonarea/results/R3Pageination.png  used on input line 10.
+(pdftex.def)             Requested size: 439.37941pt x 48.44626pt.
 ))) (./chapters/endpage.tex
 File: img/common/Innerfront.png Graphic file (type png)
 <use img/common/Innerfront.png>
 Package pdftex.def Info: img/common/Innerfront.png  used on input line 2.
 (pdftex.def)             Requested size: 597.54874pt x 845.06516pt.
- [18
-
- <./img/common/commonarea/results/ResultsCommonArea.png (PNG copy)>]
-<img/common/Back.png, id=212, 597.23125pt x 845.1575pt>
+ [20 <./img/common/commonarea/results/CompareTheDaySmall.png (PNG copy)> <./img/common/commonarea/results/CompareTheDay.png (PNG copy)> <./img/common/commonarea/results/R3Pageination.png (PNG copy)>]
+<img/common/Back.png, id=235, 597.23125pt x 845.1575pt>
 File: img/common/Back.png Graphic file (type png)
 <use img/common/Back.png>
 Package pdftex.def Info: img/common/Back.png  used on input line 17.
 (pdftex.def)             Requested size: 597.54874pt x 845.06516pt.
- [19
+ [21
 
  <./img/common/Back.png>])) (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 88776FE43CC4B6238EE723F47C76699C;2839.
+(rerunfilecheck)             Checksum: ADB514C7AEFF742E3F60D38EBEA33C05;3061.
  ) 
 Here is how much of TeX's memory you used:
- 29315 strings out of 476182
- 559732 string characters out of 5795595
- 1936975 words of memory out of 5000000
- 50590 multiletter control sequences out of 15000+600000
- 586118 words of font info for 155 fonts, out of 8000000 for 9000
+ 29392 strings out of 476182
+ 562755 string characters out of 5795595
+ 1938975 words of memory out of 5000000
+ 50641 multiletter control sequences out of 15000+600000
+ 586472 words of font info for 161 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 83i,16n,117p,1033b,913s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 83i,17n,117p,1033b,913s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (19 pages, 5330914 bytes).
+Output written on main.pdf (21 pages, 5510057 bytes).
 PDF statistics:
- 254 PDF objects out of 1000 (max. 8388607)
- 198 compressed objects within 2 object streams
- 57 named destinations out of 1000 (max. 500000)
- 49398 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 278 PDF objects out of 1000 (max. 8388607)
+ 214 compressed objects within 3 object streams
+ 64 named destinations out of 1000 (max. 500000)
+ 49431 words of extra memory for PDF output out of 51595 (max. 10000000)
 

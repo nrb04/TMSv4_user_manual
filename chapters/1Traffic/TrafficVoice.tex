@@ -1,0 +1,94 @@
+\vspace{3mm}
+\subsection{Traffic Volume- Voice}
+
+users can filter and view the traffic volume for **Voice** data over the selected period. The available filters include **Traffic Type**, **Period**, **Operators**, **Network Category**, **Direction**, and **Start/End Date**. Users can also apply **Quick Presets** such as **Last Hour**, **24 Hours**, or **7 Days** to quickly adjust the view based on their needs.
+
+Once the filters are applied, the results are displayed in both graphical and tabular formats. This helps users quickly analyze the traffic patterns for the selected period and operator.
+
+\begin{figure}[H]
+  \centering
+  \colorbox{gray!20}{\includegraphics[width=.97\textwidth]{img/traffic/voice/Traficvoicepageview.png}}  % Replace with the path to your image file
+  \caption{Example of Voice Traffic Volume Dashboard}
+\end{figure}
+% -------------------------------------Traffic Volume - Voice Search Filters-------------------------------------
+
+\subsubsection{Traffic Volume- Voice Search Filters}
+In this section, users can filter traffic volume data
+by selecting the appropriate parameters for Voice traffic.
+To perform a voice search, the user needs to select the **Voice** option in the traffic type filter.
+This will allow the user to view only the voice traffic data\\
+\vspace{3mm}
+\textbf{Traffic Type:} For Voice traffic, the user can select from the following options:
+
+\begin{figure}[ht]
+
+  \begin{minipage}[b]{0.20\textwidth}
+    \begin{itemize}
+      \item Voice
+      \item \st{SMS}
+      \item \st{Data}
+      \item \st{ICX In/Out}
+      \item \st{IGW In/Out}
+    \end{itemize}
+  \end{minipage}
+  \hfill
+  \begin{minipage}[t]{0.35\textwidth}
+    \centering
+    \colorbox{gray!20}{\includegraphics[width=0.95\textwidth]{img/traffic/trafficTypes.png}}
+    \caption{Traffic Type Selection}
+  \end{minipage}
+
+\end{figure}
+\input{chapters/setting/CommonItems/c1Period.tex}
+\input{chapters/setting/CommonItems/c2quickpresett.tex}
+\input{chapters/setting/CommonItems/C3startTimeDate.tex}
+\input{chapters/setting/CommonItems/C4QuicktimeSelection.tex}
+\input{chapters/setting/CommonItems/C5Operator.tex}
+\vspace{3mm}
+\textbf{Network Category:} The user can choose from various network categories, with all categories being selected by default.\linebreak
+\begin{figure}[ht]
+  \centering
+  \itshape
+  \colorbox{gray!20}{\includegraphics[width=0.35\textwidth]{img/traffic/NetworkCatagory.png}}
+  \caption{Example of Network Category Selection}
+\end{figure}
+\clearpage
+
+\vspace{3mm}
+\textbf{Direction:} The user can choose the direction for the traffic (Incoming or Outgoing), with all directions being selected by default.\\
+\begin{figure}[ht]
+  \centering
+  \itshape
+  \colorbox{gray!20}{\includegraphics[width=0.30\textwidth]{img/traffic/trafficDirection.png}}
+  \caption{Example of Traffic Direction Selection}
+\end{figure}
+\vspace{3mm}
+%\textbf{Units:} The user can select between two unit types:\includegraphics[width=0.3\textwidth]{img/traffic/minuteCount.png}\\
+\textbf{Units:} The user can select between two unit types: \raisebox{-0.2\height}{\includegraphics[height=2em]{img/traffic/minuteCount.png}}
+\begin{itemize}
+  \item Minute
+  \item Count
+\end{itemize}
+
+After \textbf{APPLY FILTERS},\colorbox{gray!20}{\includegraphics[width=0.2\textwidth]{img/common/commonarea/Applyfilter.png}} the search results will update to reflect the selected parameters.
+
+\par\vspace{5mm}
+
+% -----------------------------Traffic Volume - Voice Search Results-------------------------------------
+
+\subsubsection{Traffic Volume - Voice Search Results}
+
+In this section, users can view the results for the **Voice Traffic** based on the filters applied. The data is displayed in a table format, showing detailed information for each operator and period. Users can view and analyze the traffic metrics such as inbound and outbound traffic, international traffic, and total minutes for the selected period.
+
+The table also allows users to perform actions like downloading the results in different formats (CSV, Excel, PDF), copying, or printing the data. Additionally, users can compare the data with the previous day's traffic using the "Compare w/ Prev Day" option.
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=\textwidth]{img/traffic/voice/VoiceTableView.png}  % Replace with the path to your image file
+  \caption{Example of Voice Search Results Table View}
+\end{figure}
+\clearpage
+\input{chapters/setting/CommonItems/R1TablendDownlaod.tex}
+\input{chapters/setting/CommonItems/R4TableSortfilter.tex}
+\input{chapters/setting/CommonItems/R2CompareDay.tex}
+\input{chapters/setting/CommonItems/R3pagenation.tex}
