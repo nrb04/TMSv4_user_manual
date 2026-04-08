@@ -36,3 +36,15 @@ After \textbf{APPLY FILTERS},\includegraphics[width=0.3\textwidth]{img/common/co
 Telecom monitoring system website writing a professinal Usermanual with LateX,
 now i give u a sectionwise image and some comments give me Latex Format text
 
+
+% Section 1 Example
+\sectiondivider{1}{User Login and Access}
+\input{chapters/login.tex}
+
+% Section 2 Example
+\sectiondivider{2}{Dashboard Overview}
+\input{chapters/Dashboard.tex}
+
+% Section 3 Example
+\sectiondivider{3}{Website Operate and Manage}
+\input{chapters/websiteOperations.tex}

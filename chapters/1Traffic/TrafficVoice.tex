@@ -1,7 +1,6 @@
-\vspace{3mm}
 \subsection{Traffic Volume- Voice}
 
-users can filter and view the traffic volume for **Voice** data over the selected period. The available filters include **Traffic Type**, **Period**, **Operators**, **Network Category**, **Direction**, and **Start/End Date**. Users can also apply **Quick Presets** such as **Last Hour**, **24 Hours**, or **7 Days** to quickly adjust the view based on their needs.
+users can filter and view the traffic volume for \textbf{Voice} data over the selected period. The available filters include \textbf{Traffic Type}, \textbf{Period}, \textbf{Operators}, \textbf{Network Category}, \textbf{Direction}, and \textbf{Start/End Date}. Users can also apply \textbf{Quick Presets} such as \textbf{Last Hour}, \textbf{24 Hours}, or \textbf{7 Days} to quickly adjust the view based on their needs.
 
 Once the filters are applied, the results are displayed in both graphical and tabular formats. This helps users quickly analyze the traffic patterns for the selected period and operator.
 
@@ -15,20 +14,20 @@ Once the filters are applied, the results are displayed in both graphical and ta
 \subsubsection{Traffic Volume- Voice Search Filters}
 In this section, users can filter traffic volume data
 by selecting the appropriate parameters for Voice traffic.
-To perform a voice search, the user needs to select the **Voice** option in the traffic type filter.
+To perform a voice search, the user needs to select the \textbf{Voice} option in the traffic type filter.
 This will allow the user to view only the voice traffic data\\
-\vspace{3mm}
+\par\vspace{3mm}
 \textbf{Traffic Type:} For Voice traffic, the user can select from the following options:
 
 \begin{figure}[ht]
 
   \begin{minipage}[b]{0.20\textwidth}
     \begin{itemize}
-      \item Voice
-      \item \st{SMS}
-      \item \st{Data}
-      \item \st{ICX In/Out}
-      \item \st{IGW In/Out}
+      \item[\boxed{$\checkmark$}] Voice
+      \item[\boxed{\times}] SMS
+      \item[\boxed{\times}] Data
+      \item[\boxed{\times}] ICX In/Out
+      \item[\boxed{\times}] IGW In/Out
     \end{itemize}
   \end{minipage}
   \hfill
@@ -78,17 +77,40 @@ After \textbf{APPLY FILTERS},\colorbox{gray!20}{\includegraphics[width=0.2\textw
 
 \subsubsection{Traffic Volume - Voice Search Results}
 
-In this section, users can view the results for the **Voice Traffic** based on the filters applied. The data is displayed in a table format, showing detailed information for each operator and period. Users can view and analyze the traffic metrics such as inbound and outbound traffic, international traffic, and total minutes for the selected period.
+In this section, users can view the results for the \textbf{Voice Traffic} based on the filters applied. The data is displayed in a table format, showing detailed information for each operator and period. Users can view and analyze the traffic metrics such as inbound and outbound traffic, international traffic, and total minutes for the selected period.
 
 The table also allows users to perform actions like downloading the results in different formats (CSV, Excel, PDF), copying, or printing the data. Additionally, users can compare the data with the previous day's traffic using the "Compare w/ Prev Day" option.
 
 \begin{figure}[h]
   \centering
-  \includegraphics[width=\textwidth]{img/traffic/voice/VoiceTableView.png}  % Replace with the path to your image file
+  \includegraphics[width=\textwidth]{img/traffic/voice/VoiceTableView.png}
   \caption{Example of Voice Search Results Table View}
 \end{figure}
 \clearpage
 \input{chapters/setting/CommonItems/R1TablendDownlaod.tex}
 \input{chapters/setting/CommonItems/R4TableSortfilter.tex}
 \input{chapters/setting/CommonItems/R2CompareDay.tex}
+
+\subsubsection{Voice Graphic View}
+
+In this section, users can view the \textbf{Voice Traffic} data in a graphical format. The bar chart displays the traffic volume for different categories such as \textbf{ON-NET}, \textbf{OFF-NET (IN)}, \textbf{OFF-NET (OUT)}, \textbf{INTNL (IN)}, and \textbf{INTNL (OUT)}, each represented by different colors. The chart is interactive, allowing users to visually compare the data over a specific time period, such as daily traffic data for each operator.
+
+By selecting different filters or adjusting the time range, users can analyze the traffic trends for each category, allowing for deeper insights into the network's performance.
+
+\begin{figure}[H]
+  \centering
+  \colorbox{gray!20}{\includegraphics[width=.97\textwidth]{img/traffic/voice/VoiceGraphViewpng.png}}  % Replace with the path to your image file
+  \caption{Example of Voice Traffic Graphic View}
+\end{figure}
+\subsubsection{Voice Statistics View}
+
+In this section, users can view the \textbf{Voice Traffic Statistics} in a visual format. The statistics display aggregated data, including the total traffic, operators involved, the peak value (single point), and the number of periods. The graph in the center shows the distribution of the traffic among different operators.
+
+For example, as shown in the image, users can see the breakdown of the traffic for operators such as \textbf{Banglalink}, \textbf{Grameenphone}, \textbf{Robi Axiata}, and \textbf{Teletalk} in a pie chart format. The statistics on the right side display the \textbf{total traffic} aggregated over the selected period, as well as other important metrics like the \textbf{peak} traffic value and the \textbf{number of periods} for which the data is being viewed.
+
+\begin{figure}[H]
+  \centering
+  \colorbox{gray!20}{\includegraphics[width=.97\textwidth]{img/traffic/voice/VoiceStaticesView.png}}
+  \caption{Example of Voice Traffic Statistics View}
+\end{figure}
 \input{chapters/setting/CommonItems/R3pagenation.tex}

@@ -1,0 +1,116 @@
+\subsection{Traffic Volume- SMS}
+
+users can filter and view the traffic volume for \textbf{SMS} data over the selected period. The available filters include \textbf{Traffic Type}, \textbf{Period}, \textbf{Operators}, \textbf{Network Category}, \textbf{Direction}, and \textbf{Start/End Date}. Users can also apply \textbf{Quick Presets} such as \textbf{Last Hour}, \textbf{24 Hours}, or \textbf{7 Days} to quickly adjust the view based on their needs.
+
+Once the filters are applied, the results are displayed in both graphical and tabular formats. This helps users quickly analyze the traffic patterns for the selected period and operator.
+
+\begin{figure}[H]
+  \centering
+  \colorbox{gray!20}{\includegraphics[width=.97\textwidth]{img/traffic/SMS/SMSoverview.png}}  % Replace with the path to your image file
+  \caption{Example of SMS Traffic Volume Dashboard}
+\end{figure}
+% -------------------------------------Traffic Volume - SMS Search Filters-------------------------------------
+
+\subsubsection{Traffic Volume- SMS Search Filters}
+In this section, users can filter traffic volume data
+by selecting the appropriate parameters for SMS traffic.
+To perform a SMS search, the user needs to select the \textbf{SMS} option in the traffic type filter.
+This will allow the user to view only the SMS traffic data\\
+\par\vspace{3mm}
+\textbf{Traffic Type:} For SMS traffic, the user can select from the following options:
+
+\begin{figure}[ht]
+
+  \begin{minipage}[b]{0.20\textwidth}
+    \begin{itemize}
+      \item[\boxed{\times}] Voice
+      \item[\boxed{$\checkmark$}] SMS
+      \item[\boxed{\times}] Data
+      \item[\boxed{\times}] ICX In/Out
+      \item[\boxed{\times}] IGW In/Out
+    \end{itemize}
+  \end{minipage}
+  \hfill
+  \begin{minipage}[t]{0.35\textwidth}
+    \centering
+    \colorbox{gray!20}{\includegraphics[width=0.95\textwidth]{img/traffic/SMS/SMStypes.png}}
+    \caption{Traffic Type Selection}
+  \end{minipage}
+
+\end{figure}
+\input{chapters/setting/CommonItems/c1Period.tex}
+\input{chapters/setting/CommonItems/c2quickpresett.tex}
+\input{chapters/setting/CommonItems/C3startTimeDate.tex}
+\input{chapters/setting/CommonItems/C4QuicktimeSelection.tex}
+\input{chapters/setting/CommonItems/C5Operator.tex}
+\vspace{3mm}
+\textbf{Network Category:} The user can choose from various network categories, with all categories being selected by default.\linebreak
+\begin{figure}[ht]
+  \centering
+  \itshape
+  \colorbox{gray!20}{\includegraphics[width=0.35\textwidth]{img/traffic/NetworkCatagory.png}}
+  \caption{Example of Network Category Selection}
+\end{figure}
+\clearpage
+
+\vspace{3mm}
+\textbf{Direction:} The user can choose the direction for the traffic (Incoming or Outgoing), with all directions being selected by default.\\
+\begin{figure}[ht]
+  \centering
+  \itshape
+  \colorbox{gray!20}{\includegraphics[width=0.30\textwidth]{img/traffic/trafficDirection.png}}
+  \caption{Example of Traffic Direction Selection}
+\end{figure}
+\vspace{3mm}
+%\textbf{Units:} The user can select between two unit types:\includegraphics[width=0.3\textwidth]{img/traffic/minuteCount.png}\\
+\textbf{Units:} The user can select between two unit types: \raisebox{-0.2\height}{\includegraphics[height=2em]{img/traffic/minuteCount.png}}
+\begin{itemize}
+  \item Minute
+  \item Count
+\end{itemize}
+
+After \textbf{APPLY FILTERS},\colorbox{gray!20}{\includegraphics[width=0.2\textwidth]{img/common/commonarea/Applyfilter.png}} the search results will update to reflect the selected parameters.
+
+\par\vspace{5mm}
+
+% -----------------------------Traffic Volume - SMS Search Results-------------------------------------
+
+\subsubsection{Traffic Volume - SMS Search Results}
+
+In this section, users can view the results for the \textbf{ SMS Traffic} based on the filters applied. The data is displayed in a table format, showing detailed information for each operator and period. Users can view and analyze the traffic metrics such as inbound and outbound traffic, international traffic, and total minutes for the selected period.
+
+The table also allows users to perform actions like downloading the results in different formats (CSV, Excel, PDF), copying, or printing the data. Additionally, users can compare the data with the previous day's traffic using the "Compare w/ Prev Day" option.
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=\textwidth]{img/traffic/voice/VoiceTableView.png}
+  \caption{Example of SMS Search Results Table View}
+\end{figure}
+\clearpage
+\input{chapters/setting/CommonItems/R1TablendDownlaod.tex}
+\input{chapters/setting/CommonItems/R4TableSortfilter.tex}
+\input{chapters/setting/CommonItems/R2CompareDay.tex}
+
+\subsubsection{ SMS Graphic View}
+
+In this section, users can view the \textbf{ SMS Traffic} data in a graphical format. The bar chart displays the traffic volume for different categories such as \textbf{ON-NET}, \textbf{OFF-NET (IN)}, \textbf{OFF-NET (OUT)}, \textbf{INTNL (IN)}, and \textbf{INTNL (OUT)}, each represented by different colors. The chart is interactive, allowing users to visually compare the data over a specific time period, such as daily traffic data for each operator.
+
+By selecting different filters or adjusting the time range, users can analyze the traffic trends for each category, allowing for deeper insights into the network's performance.
+
+\begin{figure}[H]
+  \centering
+  \colorbox{gray!20}{\includegraphics[width=.97\textwidth]{img/traffic/voice/VoiceGraphViewpng.png}}  % Replace with the path to your image file
+  \caption{Example of SMS Traffic Graphic View}
+\end{figure}
+\subsubsection{ SMS Statistics View}
+
+In this section, users can view the \textbf{ SMS Traffic Statistics} in a visual format. The statistics display aggregated data, including the total traffic, operators involved, the peak value (single point), and the number of periods. The graph in the center shows the distribution of the traffic among different operators.
+
+For example, as shown in the image, users can see the breakdown of the traffic for operators such as \textbf{Banglalink}, \textbf{Grameenphone}, \textbf{Robi Axiata}, and \textbf{Teletalk} in a pie chart format. The statistics on the right side display the \textbf{total traffic} aggregated over the selected period, as well as other important metrics like the \textbf{peak} traffic value and the \textbf{number of periods} for which the data is being viewed.
+
+\begin{figure}[H]
+  \centering
+  \colorbox{gray!20}{\includegraphics[width=.97\textwidth]{img/traffic/voice/VoiceStaticesView.png}}
+  \caption{Example of SMS Traffic Statistics View}
+\end{figure}
+\input{chapters/setting/CommonItems/R3pagenation.tex}
